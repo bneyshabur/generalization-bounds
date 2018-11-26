@@ -29,8 +29,8 @@ After training the network, following measures can be computed. Please see the f
 * `L_p operator norm`: product of Lp norm of eigen-values of layers
 
 We also compute and report the following generalization bounds:
-* `L_1,inf bound`: Generalization bound by Bartlett and Mendelson 2002 (depth dependency improvement by Golowich et al. 2018).
-* `L_3,1.5 bound`: Generalization bound by Neyshabur et al. 2015 (depth dependency improvement by Golowich et al. 2018).
-* `Frobenious bound`: Generalization bound by Neyshabur et al. 2015 (depth dependency improvement by Golowich et al. 2018).
+* `L_1,inf bound`: Generalization bound by Bartlett and Mendelson 2002 (depth dependency from Golowich et al. 2018).
+* `L_3,1.5 bound`: Generalization bound by Neyshabur et al. 2015 (depth dependency from Golowich et al. 2018).
+* `Frobenious bound`: Generalization bound by Neyshabur et al. 2015 (depth dependency from Golowich et al. 2018).
 * `Spec_L1 bound`: Generalization bound by Bartlett et al. 2017.
 * `Spec_Fro bound`: Generalization bound by Neyshabur et al. 2018.
