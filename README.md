@@ -2,7 +2,7 @@
 This repository contains the code to train convolutional and fully connected networks and compute various measures and generalization bounds on convolutional and fully connected networks. The architecture, training procedure and some of the measures are chosen the same the following paper:
 
 **[Exploring Generalization in Deep Learning.](https://arxiv.org/abs/1805.12076)**  
-[Behnam Neyshabur](https://www.neyshabur.net), [Zhiyuan Li](https://sites.google.com/site/invariantorli/), [Srinadh Bhojanapalli](http://ttic.uchicago.edu/~srinadh/), [Yann LeCun](http://yann.lecun.com/), [Nathan Srebro](http://www.ttic.edu/srebro).  
+[Behnam Neyshabur](https://www.neyshabur.net), [Srinadh Bhojanapalli](http://ttic.uchicago.edu/~srinadh/), [David McAllester](http://ttic.uchicago.edu/~dmcallester/), [Nathan Srebro](http://www.ttic.edu/srebro).  
 Neural Information Processing Systems (NIPS), 2017
 
 
